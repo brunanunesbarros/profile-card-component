@@ -29,8 +29,8 @@ Versão Mobile
 
 ### Links
 
-- Solução: [Add solution URL here](https://www.frontendmentor.io/solutions/componente-do-carto-de-perfil-zTIR23csk)
-- Github Page: [Add live site URL here](https://brunanunesbarros.github.io/profile-card-component/index.html)
+- [Solução](https://www.frontendmentor.io/solutions/componente-do-carto-de-perfil-zTIR23csk)
+- [Github Page](https://brunanunesbarros.github.io/profile-card-component/index.html)
 
 ## Meu processo
 
