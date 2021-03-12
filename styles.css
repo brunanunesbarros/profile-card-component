@@ -61,7 +61,11 @@ body {
     border: solid 2px white;
 
     margin: -3.3rem auto 0 auto;
-    
+ 
+    width: 100px;
+    height: 100px;
+ 
+    object-fit: cover;
 }
 
 .card .card-detalhes {
